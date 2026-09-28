@@ -1,0 +1,7 @@
+Employee_ID,Name,Department,Role,Salary,Years_Experience,Performance_Score,Remote_Work,Joining_Date
+101,Aarav Sharma,Engineering,Senior Software Engineer,125000,7,4.8,True,2019-03-15
+103,Rohan Verma,Data Science,Data Scientist,115000,4,4.7,False,2022-01-10
+105,Vikram Singh,Engineering,DevOps Engineer,105000,6,4.4,False,2020-09-25
+107,Kabir Mehta,Data Science,ML Engineer,130000,8,4.9,True,2018-08-12
+112,Ishita Sen,Product,Senior Product Manager,140000,9,4.9,False,2017-04-03
+113,Siddharth Das,Finance,Finance Director,160000,12,4.8,False,2015-12-01
